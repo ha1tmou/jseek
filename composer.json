@@ -1,0 +1,16 @@
+{
+  "name": "ha1tmou/jseek",
+  "description": "Online Job Portal Application",
+  "authors": [
+    {
+      "name": "Hassan AIT MOUSSA",
+      "email": "hassantmoussa@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
